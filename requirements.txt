@@ -1,6 +1,6 @@
 # ML_DL_ANN Project installations
 # Compatible tensorflow version==2.19.1 for conda env with python==3.12.0
-tensorflow==2.19.1
+tensorflow
 pandas
 numpy
 matplotlib
